@@ -205,4 +205,13 @@ if mod1<0 {
 } else {
     mod2 = mod1
 }
+print (mod2)
 print(round2)
+var myString = ""
+if myString.isEmpty {
+    print("The string is empty")
+}
+let name = "Rick"
+let age = 30
+print ("\(name) is \(age) years old")
+
