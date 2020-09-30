@@ -188,9 +188,9 @@ func twoArg(arg1: Int, arg2: Int) {
     } else  {
         print("Значения равны")
     }
-        
+    
 }
-  twoArg(arg1: 1, arg2: 2)
+twoArg(arg1: 1, arg2: 2)
 
 
 func threeArgument(arg1: Int, arg2: Int, arg3: Int) {
