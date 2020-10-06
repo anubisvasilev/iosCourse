@@ -325,6 +325,7 @@ print(ar3)
 let flatArray = [ar1, ar2].flatMap({(element: [Int]) -> [Int] in
     return element
 })
+
 // задание 8
 
 func summa(firstChislo: Int, secondChislo: Int, closure: (Int, Int) -> Int) {
